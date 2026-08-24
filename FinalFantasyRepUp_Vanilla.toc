@@ -7,7 +7,7 @@
 ## Notes: Grats!|n|r   |cff05dffaBy Uivi US-BleedingHollow|r
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
-## X-Website: https://github.com/donniedice/FinalFantasyRepUp
+## X-Website: https://github.com/RGXMods/FinalFantasyRepUp
 ## X-Curse-Project-ID: 624976
 ## X-Wago-ID: WYK9JwGL
 ## X-WoWI-ID: 26323
