@@ -10,7 +10,6 @@
 ## X-Website: https://github.com/RGXMods/FinalFantasyRepUp
 ## X-Curse-Project-ID: 624976
 ## X-Wago-ID: WYK9JwGL
-## X-WoWI-ID: 26323
 
 data\locales.lua
 data\core.lua
