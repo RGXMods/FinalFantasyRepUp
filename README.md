@@ -54,6 +54,16 @@ These values describe the preserved release metadata. The addon is deprecated, s
 
 ***
 
+## <span style="color: #2563EB;">🌍 Language Support</span>
+
+FFRU ships with a complete set of translations for every WoW client language. Chat output, help text, status text, and messages are localized in:
+
+enUS (English, base), deDE (German), esES (Spanish, Europe), esMX (Spanish, Latin America), frFR (French), itIT (Italian), koKR (Korean), ptBR (Portuguese, Brazil), ptPT (Portuguese, Europe), ruRU (Russian), zhCN (Chinese, Simplified), zhTW (Chinese, Traditional).
+
+Translations live in `data/locales.lua`. The English (enUS) table is the base: every key is defined there first, and each other language overrides the same keys in its own block. Any key without a translation in a language falls back to the English value automatically, and any client locale outside the twelve listed above falls back to full English output without errors.
+
+***
+
 ## <span style="color: #2563EB;">📥 Installation</span>
 
 1. Download a packaged release of FinalFantasyRepUp and install RGX-Framework.
