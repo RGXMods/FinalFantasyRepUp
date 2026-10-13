@@ -9,7 +9,7 @@ local RGX = assert(_G.RGXFramework, "FFRU: RGX-Framework not loaded")
 
 FFRU = FFRU or {}
 
-local ADDON_VERSION = "2.0.1"
+local ADDON_VERSION = "2.0.2"
 local ADDON_NAME = "FinalFantasyRepUp"
 local PREFIX = "|Tinterface/addons/FinalFantasyRepUp/media/icon:16:16|t - |cffffffff[|r|cff3bbc00FFRU|r|cffffffff]|r "
 local TITLE = "|Tinterface/addons/FinalFantasyRepUp/media/icon:18:18|t [|cff3bbc00F|r|cffffffffinal|r |cff3bbc00F|r|cffffffffantasy|r |cff3bbc00R|r|cffffffffep|r |cff3bbc00U|r|cffffffffp!|r]"
