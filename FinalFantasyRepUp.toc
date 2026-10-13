@@ -1,5 +1,5 @@
-## Interface: 120100
-## Version: 2.0.1
+## Interface: 120105
+## Version: 2.0.2
 ## Title:|cff3bbc00Final Fantasy Rep Up!|r
 ## Author: DonnieDice
 ## SavedVariables: FFRUSettings

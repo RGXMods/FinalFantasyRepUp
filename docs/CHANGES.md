@@ -1,3 +1,7 @@
+# Non-beta Candidate: [v2.0.2](changelogs/2.0.2.md)
+
+Retail 12.1.5 / Interface `120105`; client testing and publication pending.
+
 # v2.0.0 - 2026-04-30
 
 ## Changes
